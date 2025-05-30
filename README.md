@@ -1,4 +1,3 @@
---EPS--
 --EPStest
 --This file was protected with v1
 
